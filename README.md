@@ -8,7 +8,7 @@
 * cos tam 
 
 
-[ZOBACZ demo ](file:///C:/Users/AsusX53s/Desktop/minimo/index.html)
+[ZOBACZ  ](file:///C:/Users/AsusX53s/Desktop/minimo/index.html)
 ![](https://images.pexels.com/photos/1033313/pexels-photo-1033313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
 Rzeczy do zrobienia:
@@ -28,3 +28,10 @@ width: 100%;
 }
 ```
 
+~~line through~~
+
+
+**strong**
+
+---
+*italic*
